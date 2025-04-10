@@ -1,6 +1,6 @@
 # jpa02-Wilson730
 
-Repo: https://ucsb-cs156-s25/jpa02-Wilson730
+Repo: https://github.com/ucsb-cs156-s25/jpa02-Wilson730
 
 Deployed at: https://jpa02-wilson730.dokku-16.cs.ucsb.edu
 
